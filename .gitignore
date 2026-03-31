@@ -19,3 +19,9 @@ venv/
 
 # Dataset
 data/
+
+# Results / model files
+results/
+*.parquet
+*.pkl
+*.joblib
